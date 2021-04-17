@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PerformanceOptimization</string>
+    <string name="fps_current">当前FPS：%s</string>
+</resources>
